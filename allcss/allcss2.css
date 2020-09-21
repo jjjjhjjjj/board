@@ -1,0 +1,377 @@
+@charset "UTF-8";
+
+.all {
+	min-width: 300px;
+}
+.all2{
+	min-width: 300px;
+	border-bottom:1.5px solid gray;
+}
+
+a {
+	text-decoration: none
+}
+
+.title {
+	width: 1000px;
+	height: 80px;
+	margin: auto;
+	margin-top: 20px;
+	font-size: 50px;
+	text-align: center;
+	border-bottom: 2px solid gray;
+	cursor: pointer;
+}
+
+.title2 {
+	width: 750px;
+	height: 55px;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 30px;
+	border-bottom: 1.5px solid gray;
+}
+
+.title2-1 {
+	width: 750px;
+	height: 55px;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 30px;
+	border-bottom: 1.5px solid gray;
+	cursor: pointer;
+}
+
+.title3 {
+	width: 600px;
+	height: auto;
+	margin: auto;
+	margin-top: 60px;
+	font-size: 18px;
+}
+
+.title4 {
+	width: 370px;
+	text-align: center;
+	font-size: 30px;
+	float: left;
+	border-right: 1.5px solid gray;
+	cursor: pointer;
+}
+
+.title5 {
+	width: 370px;
+	text-align: center;
+	font-size: 30px;
+	float: right;
+	cursor: pointer;
+}
+
+.title6 {
+	width: 750px;
+	height: 55px;
+	margin: auto;
+	margin-top: 40px;
+	font-size: 30px;
+	
+}
+
+.table {
+	width: 750px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-left: auto;
+}
+
+.table2 {
+	width: 750px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-left: auto;
+}
+
+.table3 {
+	width: 750px;
+	height: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-left: auto;
+}
+
+.table4 {
+	width: 750px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-left: auto;
+	border-bottom: 1.5px solid gray;
+}
+
+.table5 {
+	width: 750px;
+	height: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-left: auto;
+	text-align : center;
+}
+
+.table6 {
+	width: 375px;
+	height: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-left: auto;
+}
+.allbutton {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	border-top: 1.5px solid gray;
+}
+
+.allbutton2 {
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	border-top: 1.5px solid gray;
+}
+
+.leftbutton {
+	
+	margin-button: 5px;
+	float: right;
+}
+
+.leftbutton2 {
+	
+	margin-button: 5px;
+	float: left;
+}
+
+.leftbutton3 {
+	
+	
+	float: right;
+}
+
+.rightbutton {
+	margin-top: 20px;
+	float: right;
+}
+
+.right2button {
+	margin-top: 40px;
+	float: right;
+}
+
+.right3button {
+	margin-top: 40px;
+	margin: auto;
+}
+
+.meno {
+	width: 650px;
+	height: 890px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-left: auto;
+	border: 0.5px solid gray;
+}
+.meno2 {
+	width: 650px;
+	height: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-left: auto;
+	border: 0.5px solid gray;
+}
+
+.meno3 {
+	width: 650px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-left: auto;
+	border: 0.5px solid gray;
+}
+
+
+.meno4 {
+	width: 750px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	
+	
+}
+
+
+.menoform {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.plus {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	border-top: 0.5px solid gray;
+}
+
+.modifybutton {
+	margin-top: 20px;
+	float: left;
+}
+
+.modifybutton2 {
+	margin-top: 20px;
+	float: left;
+}
+
+.page {
+	margin: auto;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.page2 {
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.page3 {
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.meno2 {
+	width: 650px;
+	height: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-left: auto;
+	border: 0.5px solid gray;
+}
+
+.passok {
+	margin: auto;
+	width: 300px;
+	margin-top: 80px;
+}
+
+.comm {
+	margin-top: 50px;
+}
+
+
+.t {
+	width : 250px;
+	margin-top: 50px;
+	float:left;
+}
+
+.t2 {
+	width : 250px;
+	
+	float:left;
+}
+
+.b {
+	margin-top: 160px;
+	float:right;
+}
+.bb {
+	margin-top: 20px;
+
+}
+
+.id{
+	margin-bottom:5px;
+	
+	
+}
+.id2{
+	margin-top:25px;
+	
+	
+}
+.adminbtn{
+	margin-top:5px;
+	float:right;
+}
+
+.adminbtn_l{
+	
+	float:left;
+	margin-right:5px;
+}
+
+.adminbtn_r{
+	
+	float:right;
+}
+@media ( max-width :1000px) {
+	.title {
+		width: auto;
+		height: 80px;
+		margin: auto;
+		margin-top: 20px;
+		font-size: 50px;
+		text-align: center;
+		border-bottom: 2px solid gray;
+	}
+}
+
+@media ( max-width :760px) {
+	.title {
+		width: auto;
+		height: auto;
+		font-size: 5vw;
+	}
+	.title2 {
+		width: auto;
+		height: auto;
+		margin: auto;
+		padding: 10px;
+		font-size: 4vw;
+	}
+	.table {
+		width: auto;
+		height: 450px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 30px;
+		margin-left: auto;
+	}
+	.allbutton {
+		width: auto;
+		margin-top: 30px;
+		border-top: 1.5px solid gray;
+	}
+	.leftbutton {
+		float: auto;
+	}
+	.rightbutton {
+		float: auto;
+	}
+}
